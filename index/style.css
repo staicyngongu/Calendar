@@ -28,9 +28,7 @@ body {
 }
 
 #days a:hover{
-	background:;
-	background-image: url("paper.jpg");
-	background-repeat: no-repeat;
+	background: beige;
 	border-radius: 10%;
 }
 
